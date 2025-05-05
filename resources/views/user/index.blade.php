@@ -1,10 +1,10 @@
 @extends('layouts.app')
 @section('content')
-<h1>
-    Page User
-</h1>
-    <div class="container-fluid">
-        <div class="row margin-10  w-100" style="padding: 20px">
+<div class="container-fluid">
+    <div class="row margin-10  w-100" style="padding: 20px">
+            <h1>
+                Page User
+            </h1>
             <div class="panel float">
                 <div class="panel-body">
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
